@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+env/
+.cache/
+.streamlit/
+*.log
+*.csv
+*.pkl
+*.sqlite3
