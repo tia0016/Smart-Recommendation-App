@@ -1,4 +1,4 @@
-# Smart Recommendation App
+# Smart Product Recommendation 
 
 This is a smart product recommendation app built using **Streamlit** and **Machine Learning**.
 
